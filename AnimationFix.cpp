@@ -315,3 +315,4 @@ void CAnimationFix::FixPvs() {
 		*reinterpret_cast<int*>(reinterpret_cast<uintptr_t>(pCurEntity) + 0xA28) = 0;
 	}
 }
+hi
