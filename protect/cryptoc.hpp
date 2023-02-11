@@ -195,3 +195,5 @@ extern void xmxss_decrypt(uint8_t* p_data, size_t data_size, const uint8_t* p_ke
     multi_xorshift_destruct(&mxs_seed);
     xor_crypt(p_data, data_size, p_key, key_size, 0, 0);
 }
+
+//That Code Was Fixed.
